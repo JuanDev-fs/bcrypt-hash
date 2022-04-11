@@ -15,12 +15,12 @@ let USUARIO = {
 
 //password que ingreso en el formulario
 const myPassword = USUARIO.password;
+console.log(myPassword);
 
 
 //password de prueba en este caso son iguales
 //probar cambiando este password simulando un ingreso en el formulario
 const myPassword1="12345678";
-console.log(myPassword);
 
 
 
